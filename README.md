@@ -5,5 +5,5 @@ mvUrls.py - To extract all Urls to collect movie details.
 
 mainFile.py - Main to extract data from the collected Urls.
 
-Contents Included:
+Contents:
 Movie_Title, Movie_Banner, Cast, Direction, Production, Music, Verdict, Analysis, Story, Rating.
